@@ -2,4 +2,4 @@
 
 I'm a backend engineer passionate about learning, software and helping out with my knowledge wherever it may be required.
 
-Mostly based on Go, Laravel and Typescript, I explore the world of result driven software engineering with a track record of delivering high quality software products.
+Mostly building with Go and Laravel, I explore the world of result driven software engineering with a track record of delivering high quality software products.
